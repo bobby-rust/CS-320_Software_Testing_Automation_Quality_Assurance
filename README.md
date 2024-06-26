@@ -1,1 +1,1 @@
-# CS-320_Software_Testing_Automation_Quality_Assurance
+# CS-320_Software_Testing
